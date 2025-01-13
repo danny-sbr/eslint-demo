@@ -38,9 +38,4 @@ export default [
       eqeqeq: "warn",
     },
   },
-  // {
-  //   parserOptions: {
-  //     ecmaVersion: "latest",
-  //   },
-  // },
 ];
