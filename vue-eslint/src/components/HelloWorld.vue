@@ -36,7 +36,7 @@ const arr2 = arr2.map((item) => {
   if (item === 1) {
     item = 2;
   }
-  // 缺少 return 陳述句
+  // 缺少 return 陳述句，所以會 IDE 顯示錯誤
 });
 </script>
 
