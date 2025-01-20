@@ -64,3 +64,10 @@ a = 2; // 這裡應該會報錯，但沒有 ESLint 時不會有警告
 ```bash
 pnpm lint
 ```
+
+## 檢查 ESLint 設定
+```bash
+pnpx @eslint/config-inspector@latest
+```
+
+
